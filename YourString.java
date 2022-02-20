@@ -2,8 +2,6 @@ package com.company;
 import java.util.Scanner;
 
 public class YourString {
-    private static String str;
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите строку из слов, разделенных пробелами");
